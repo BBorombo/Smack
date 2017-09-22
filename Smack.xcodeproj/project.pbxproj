@@ -15,6 +15,7 @@
 		C2B56E601F7502BD00B308C6 /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2B56E5F1F7502BD00B308C6 /* ChatVC.swift */; };
 		C2B56E621F7502CB00B308C6 /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2B56E611F7502CB00B308C6 /* ChannelVC.swift */; };
 		C2B56E631F750BBD00B308C6 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C2B56E5A1F74FBDC00B308C6 /* SWRevealViewController.m */; };
+		C2B56E661F7512CF00B308C6 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2B56E651F7512CF00B308C6 /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		C2B56E5B1F74FBDC00B308C6 /* SWRevealViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		C2B56E5F1F7502BD00B308C6 /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		C2B56E611F7502CB00B308C6 /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		C2B56E651F7512CF00B308C6 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		C43C5623FCD4CACA0BC545D0 /* Pods-Smack.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Smack.release.xcconfig"; path = "Pods/Target Support Files/Pods-Smack/Pods-Smack.release.xcconfig"; sourceTree = "<group>"; };
 		F58B399463278EEB840C7759 /* Pods_Smack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Smack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -111,6 +113,7 @@
 		C2B56E5D1F75028900B308C6 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				C2B56E651F7512CF00B308C6 /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			files = (
 				C2B56E601F7502BD00B308C6 /* ChatVC.swift in Sources */,
 				C2B56E621F7502CB00B308C6 /* ChannelVC.swift in Sources */,
+				C2B56E661F7512CF00B308C6 /* GradientView.swift in Sources */,
 				C2B56E471F74EF1400B308C6 /* AppDelegate.swift in Sources */,
 				C2B56E631F750BBD00B308C6 /* SWRevealViewController.m in Sources */,
 			);
