@@ -23,6 +23,7 @@ let HEADER = ["Content-Type": "application/json; charset=utf-8"]
 let TO_LOGIN = "toLogin"
 let TO_CREATE_ACCOUNT = "toCreateAccount"
 let UNWIND_TO_CHANNEL = "unwindToChannel"
+let TO_AVATAR_PICKER = "toAvatarPicker"
 
 // User Defaults
 let TOKEN_KEY = "token"
